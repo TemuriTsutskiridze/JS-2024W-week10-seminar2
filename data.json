@@ -1,0 +1,36 @@
+{
+  "books-1": [
+    {
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "id": 8
+    },
+    {
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "lasha",
+      "borrowedBooks": [],
+      "id": 3
+    },
+    {
+      "name": "tedo",
+      "borrowedBooks": [],
+      "id": 4
+    },
+    {
+      "name": "ani",
+      "borrowedBooks": [],
+      "id": 5
+    },
+    {
+      "name": "eka",
+      "borrowedBooks": [],
+      "id": 6
+    }
+  ]
+}
